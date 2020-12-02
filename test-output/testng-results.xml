@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Falcon-Sample-WIN_10_chrome_87" duration-ms="736" started-at="2020-12-02T09:59:24Z" finished-at="2020-12-02T09:59:24Z">
+    <groups>
+    </groups>
+    <test name="SampleTest" duration-ms="736" started-at="2020-12-02T09:59:24Z" finished-at="2020-12-02T09:59:24Z">
+      <class name="com.atmecs.falcon_testing_excel.falcon_excel_demo.testscript.LoginTest">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.atmecs.falcon_testing_excel.falcon_excel_demo.testscript.LoginTest@65907f2d]" name="preSetup" is-config="true" duration-ms="98" started-at="2020-12-02T09:59:24Z" finished-at="2020-12-02T09:59:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.atmecs.falcon_testing_excel.falcon_excel_demo.testscript.LoginTest@65907f2d]" name="teardown" is-config="true" duration-ms="0" started-at="2020-12-02T09:59:24Z" finished-at="2020-12-02T09:59:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.atmecs.falcon_testing_excel.falcon_excel_demo.testscript.LoginTest -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- Falcon-Sample-WIN_10_chrome_87 -->
+</testng-results>
